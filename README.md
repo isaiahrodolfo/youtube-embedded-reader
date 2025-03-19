@@ -1,4 +1,6 @@
 # YouTube Embedded Reader
+## Screenshot
+<img width="1372" alt="Screenshot 2025-03-19 at 4 01 45 PM" src="https://github.com/user-attachments/assets/1bd90274-a6f9-4450-9665-416fb5ec921f" />
 ## Usage
 ### Setup
 Dictionary: Download postprocessed JSONL data from kaikki.org for your selected language
